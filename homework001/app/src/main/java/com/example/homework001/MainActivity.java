@@ -1,9 +1,6 @@
 package com.example.homework001;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
-
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
@@ -11,7 +8,6 @@ import com.example.homework001.util.DisplayUtil;
 import com.example.homework001.util.Utils;
 public class MainActivity extends AppCompatActivity {
     private TextView text_screen;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
